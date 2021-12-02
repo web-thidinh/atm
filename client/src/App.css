@@ -1,0 +1,95 @@
+.login-page{
+  padding-top: 100px;
+} 
+.login-form{
+  width:500px;
+} 
+.form-login-btn{
+  display:flex;
+  justify-content: space-between;
+}
+.form-heading{
+  margin-bottom:20px;
+}
+
+
+.header-page{
+  padding:30px 0;
+  display:flex;
+  justify-content: space-between;
+}
+.header-page-right{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-page-icon{
+  margin-left:5px;
+}
+
+
+
+.create-btn{
+  margin-right: 15px;
+}
+.atm-item{
+  padding:0 15px;
+  margin-bottom: 25px;
+}
+.atm-image{
+  position: relative;
+}
+.atm-status,.atm-name,.atm-image{
+  text-align: center;
+}
+.atm-icon{
+  position: absolute;
+  cursor: pointer;
+  font-size: 20px;
+  top: -15px;
+  right: 10px;
+}
+.process-value{
+  word-wrap: break-word;
+}
+
+
+.atm-user{
+  display: flex;
+  align-items: center;
+  padding:0 40px;
+  margin-top:30px;
+}
+.atm-user-image{
+  margin-right:15px;
+}
+.atm-user-image img{
+  width:35px;
+}
+
+.logout-btn{
+  margin-left:15px;
+}
+
+
+
+.queue-list{
+  padding:10px;
+  background:rgb(216, 216, 216);
+}
+.queue-item{
+  margin-bottom:10px;
+  border-bottom: 1px solid #fff;
+}
+.queue-item img{
+  width: 25px;
+  border-radius:15px;
+
+}
+
+
+.page-not-found{
+  width:100vw;
+  height:100vh;
+  margin:auto;
+}
